@@ -6,6 +6,7 @@ You are given an array of intervals. You have to merge the overlapping intervals
 The input consists of N+1 lines. First one having one integer N. Next N lines contain N intervals. l r(l<=r)
 
 #### Input
+
 3
 1 4
 3 5
