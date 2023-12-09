@@ -9,7 +9,6 @@ int main() {
        scanf("%d",&arr[i]);
    }
    sort(arr,arr+n);
-
    int cnt=0;
 
    for(int i=0;i<n-2;i++){
